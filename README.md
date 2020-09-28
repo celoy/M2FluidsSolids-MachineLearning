@@ -1,1 +1,1 @@
-# M2FluidsSolids-MachineLearning
+# M2 Fluids & Solids - Machine Learning
