@@ -5,4 +5,3 @@ nbconvert
 pandas
 sklearn
 tensorflow
-ffmpeg
