@@ -2,6 +2,6 @@ numpy
 matplotlib
 jupyter
 nbconvert
-pandas
-sklearn
-tensorflow
+#pandas
+#sklearn
+#tensorflow
