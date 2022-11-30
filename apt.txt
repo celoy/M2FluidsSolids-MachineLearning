@@ -1,1 +1,1 @@
-dvipng
+graphviz
