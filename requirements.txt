@@ -3,5 +3,7 @@ matplotlib
 jupyter
 nbconvert
 pandas
-#sklearn
+scikit-learn
+seaborn
+graphviz
 #tensorflow
