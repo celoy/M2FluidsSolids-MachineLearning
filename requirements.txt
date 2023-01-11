@@ -6,5 +6,5 @@ pandas
 scikit-learn
 seaborn
 graphviz
-pytorch
+torch
 
