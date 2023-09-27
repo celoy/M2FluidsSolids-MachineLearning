@@ -3,8 +3,8 @@ matplotlib
 jupyter
 nbconvert
 pandas
-scikit-learn
-seaborn
-graphviz
-torch
-torchvision
+#scikit-learn
+#seaborn
+#graphviz
+#torch
+#torchvision
