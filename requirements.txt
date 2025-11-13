@@ -3,7 +3,7 @@ matplotlib
 jupyter
 nbconvert
 pandas
-#scikit-learn
+scikit-learn
 #seaborn
 #graphviz
 #torch
